@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\bin\Debug\net7.0\DebuggingPractice.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\refint\DebuggingPractice.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\DebuggingPractice.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\DebuggingPractice\obj\Debug\net7.0\ref\DebuggingPractice.dll
